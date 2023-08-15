@@ -1,5 +1,4 @@
-### Hi there 👋
-<a href="#"><img src="https://img.shields.io/badge/HTML-1572B6?style=flat&logo=html5&logoColor=white"/></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakusan0)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kakusan0/kakusan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
